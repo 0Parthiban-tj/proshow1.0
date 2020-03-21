@@ -9,6 +9,7 @@ var audio1=new Audio('win.mp3');
 var audio2=new Audio('lose.mp3');
 var audio3=new Audio('incorrect.mp3');
 //validation function
+//some lines are reffered from w3 schools//
 function validation(counter){
 
     
